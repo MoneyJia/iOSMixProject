@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Scheme
+   LastUpgradeVersion = "1330"
+   version = "1.3">
+   <BuildAction
+      parallelizeBuildables = "YES"
+      buildImplicitDependencies = "YES">
+      <BuildActionEntries>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "B517AAA6202C500000E7D046"
+               BuildableName = "ProjectMix"
+               BlueprintName = "ProjectMix"
+               ReferencedContainer = "container:ProjectMix.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+      </BuildActionEntries>
+   </BuildAction>
+   <TestAction
+      buildConfiguration = "Debug"
+      selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
+      selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
+      shouldUseLaunchSchemeArgsEnv = "YES">
+      <Testables>
+      </Testables>
+   </TestAction>
+   <LaunchAction
+      buildConfiguration = "Debug"
+      selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
+      selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
+      launchStyle = "0"
+      useCustomWorkingDirectory = "NO"
+      ignoresPersistentStateOnLaunch = "NO"
+      debugDocumentVersioning = "YES"
+      debugServiceExtension = "internal"
+      allowLocationSimulation = "YES">
+      <BuildableProductRunnable
+         runnableDebuggingMode = "0">
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "B517AAA6202C500000E7D046"
+            BuildableName = "ProjectMix"
+            BlueprintName = "ProjectMix"
+            ReferencedContainer = "container:ProjectMix.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
+      <CommandLineArguments>
+         <CommandLineArgument
+            argument = "/Users/admin/Desktop/&#x6df7;&#x6dc6;/adf/adf"
+            isEnabled = "YES">
+         </CommandLineArgument>
+         <CommandLineArgument
+            argument = "-modifyPlistNamePrefix sss"
+            isEnabled = "NO">
+         </CommandLineArgument>
+         <CommandLineArgument
+            argument = "-modifyResouceNamePrefix /Users/admin/Desktop/&#x6df7;&#x6dc6;/adf/adf/Lottie"
+            isEnabled = "YES">
+         </CommandLineArgument>
+         <CommandLineArgument
+            argument = "-modifyNotifacationNamePrefix kNSNotificationWXLogin,kNSNotificationQQUserInfo,kNSNotificationCurrJoinAudioRoom,kNSNotificationOutAudioRoom,kNSNotificationOutAudioRoom_withRCIMClientError,kNSNotificationCurrAnyDoorMatching,kNSNotificationUserDetailsJoinRoom,kNSNotificationUserInfoSuccess,kNSNotificationRefreshHotData,kNSNotificationRefreshReloadHotList,kNSNotificationBullionRefData,kNSNotificationShowUserCard,kNSNotificationShowUserCard_openBlack,kNSNotificationLongPressUserHead,kNSNotificationShowUserCardDetail,kNSNotificationJoinRCChatRoomSuccess,kNSNotificationOutRCChatRoomSuccess,kNSNotificationBigHornClickVisitPersonalPage,kNSNotificationRoomAuthenticationSuccess,kNSNotificationRoomAuthenticationFail,kNSNotificationAudioRoomMicroMessage,kNSNotificationAudioRoomChatMessage,kNSNotificationJoinRoomChatMessage,kNSNotificationOutRoomChatMessage,kNSNotificationOutRoomUpdatePKUsers,kNSNotificationApplyUpMicro,kNSNotificationApplyUpMicroSuccess,kNSNotificationApplyUpMicroFail,kNSNotificationApplyUpMicroState,kNSNotificationApplyDownMicroSuccess,kNSNotificationInviteMicroSuccess,kNSNotificationInviteMicroFail,kNSNotificationUserCardUpMic,kNSNotificationUserCardDropMic,kNSNotificationRoomMicChatMessage,kNSNotificationRoomMicFireNumChatMessage,kNSNotificationRoomOperateFireNumChatMessage,kNSNotificationRoomUpdateChatMessage,kNSNotificationRoomAdminChatMessage,kNSNotificationRoomOpeartChatMessage,kNSNotificationRoomGiftChatMessage,kNSNotificationRoomGiftsChatMessage,kNSNotificationRoomGiftsEndMessage,kNSNotificationRoomMicTitleMessage,kNSNotificationRoomMicPicMessage,kNSNotificationIMReceiveMessage,kNSNotificationIMToUserRecallMessage,kNSNotificationPersonSendGiftSucess,kNSNotificationRefreshIMMessageList,kNSNotificationRefreshIMGroupMessage,kNSNotificationBackFromChatViewRefreshUserInfo,kNSNotificationApprovePass,kNSNotificationisShowFishPondRead,kNSNotificationisRongCludIsContent,kNSNotificationAudioRoomClickToGift,kNSNotificationRoomRankSendGiftMessage,kNSNotificationRoomUpdateCardMessage,kNSNotificationRoomAddCardMessage,kNSNotificationRoomMicroPhoneInvitation,kNSNotificationRoomMicroPhoneInvitationRefuse,kNSNotificationRoomFollowMessage,kNSNotificationRoomPlayMusicChatMessage,kNSNotificationRoomStopMusicChatMessage,kNSNotificationRoomCardConverMessage,kNSNotificationRoomMessageRef,dKNSNotificationSYSTEM_MATCH_ROOM_TIME_OUTd,uKNSNotificationSYSTEM_FRIEND_STATE_CHANGEu,KNSNotification_SYSTEM_friend_follow_Like_change,SYSTEM_Friend_follow_Like_change_friend,KNSNotification_SYSTEM_friend_attention,kNSNotificationCancelMatchingVC,kNSNotificationSYSTEM_GLOBAL_NOTICE_LUCK,kNSNotificationSYSTEM_ROOM_RADIO_GUARD,kNSNotificationSYSTEM_OPEN_LUCK_BOX,kNSNotificationSYSTEM_LUCK_BOX_OUTSIDE_CONFIG,kNSNotificationSYSTEM_RECHARGE_SUCCESS,kNSNotification_FIRST_CHARGE_SUCCESS,kNSNotification_UPDATE_BACKPACK,kNSNotificationUpload_music_start,kNSNotificationPlay_music_stop,kNSNotificationUpload_music_completed,kNSNotificationUserInfoPushSuccess,kNSNotificationMicStateChange,kNSNotificationDidEnterBackground,kNSNotificationAddFishPondSuccess,kNSNotificationSendRecombination,kNSNotificationCurrentShowVCView,kNSNotificationUplaodAudioRoomBACKGROUND,kNSNotificationINRoomAndMessageListOutCurrentAudioRoom,kNSNotificationDownMicCurrentAudioRoom,kNSNotificationAttentionRoomSuccess,kNSNotificationIMBreakRefAudioRoom,kNSNotificationReMicrophoneAudioRoom,kNSNotificationAgainOnlineList,kNSNotificationSecondAgainOnlineList,kNSNotificationisHiddenIMBottom,kNSNotificationHiddenGlobleRead,kNSNotificationOnReceiveReadState,kNSNotificationrefreshFriendOnlineTime,kNSNotificationSYSTEM_EXAMINE_STATE,kNSNotificationreHeaderCheckMessage,kNSNotificationreTabbarItemMessage,kNSNotificationreTabbarItemDiscover,kNSNotificationrefreshCurrentMessageCell,kNSNotificationRefreshRoomPhotoValidate,kNSNotificationRefreshRoomMicPhotoValidate,kNSNotificationSlideRoomInviteView,kNSNotificationSlideRoomOnlineView,kNSNotificationShowCountDownView,kNSNotificationStartCountDown,kNSNotificationMineAttentionCancel,kNSNotificationChatHomeCanclePerfor,kNSNotificationFirstAttentionShowRead,kNSNotificationRefreshCurrentPandant,kNSNotificationRefreshPandantHeaderBalance,kNSNotificationSystemAgreeContractMessage,kNSNotificationSYSTEMSwitcDefaultContract,KNSNotificationSYSTEMDIsmissClan,kNSNotificationSystemDeleteContractMessage,kNSNotificationSystemChangeContractMessage,kNSNotificationRoomRefuseContractMessage,kNSNotificationRoomDeleteContractMessage,kNSNotificationRoomChangeContractMessage,kNSNotificationRefSelfRoomContractMessage,kNSNotificationRefreshRoomBanState,zKNSNotificationInviteFriendsz,kNSNotificationInstationMessage,kNSNotificationHiddenAwardButton,kNSNotificationCancleLuckLotAnimation,kNSNotificationRefreshGoodsUnlockState,kNSNotificationUpLoadHeaderRefreshHeader,kNSNotificationRightNewOnlineList,kNSNotificationRefreshWeekStarRed,kNSNotificationDiscoverMessageCountUnread,kNSNotificationDiscoverMessageCountUnread_Clean,bNNNotificationMyDressPackIsBreakDownb,kNSNotificationReceiveGiftAndAgree,xKNSNotificationShowTeenagerPromptx,kNSNotificationAudioRoomPKInvite,kNSNotificationAudioRoomPKUserAgreeUpdate,kNSNotificationAudioRoomPKIntegralUpdate,kNSNotificationAudioRoomPKEnded,kNSNotificationAudioRoomRedpack,kNSNotificationAudioRoomNobleOpen,kNSNotificationAudioRoomNobleSendPopularHot,kNSNotificationSuperAdminCheckRoom,kNSNotificationAudioRoomBigHoenLoopNoti,kNSNotificationAudioRoomTopBigHoenLoopNotiTop,kNSNotificationWhoLikeMeShowUnread,kNSNotificationWhoLikeMeHiddenUnread,kNSNotificationRoomAdminSettingChange,kNSNotificationRoomAdminSettingChangeHandleUI,kNSNotificationRoomAdminSettingChangeblankList,kNSNotificatioRrefreshSubmitState,kNSNotificatioCloseRoomInvalideTimer,kNSNotificatioRefreshGiftCoinView,kNSNotificationChatHallMessage,kNSNotification_homeBanner_refresh,kNSNotification_Version_Change,kNSNotification_Home_defult_index,kNSNotificationSYSTEM_USER_BAN,kNSNotificationSYSTEM_GLOBAL_NOTICE_GIFT,kNSNotificationRefreshRoomCoverPic,kNSNotificationRoomPK_invitePop,kNSNotificationRoomPK_accepted,kNSNotificationRoomPK_refuse,kNSNotificationRoomPK_endPK,kNSNotificationRoomPK_outPk,kNSNotificationRoomPK_updatePkInfo,kNSNotificationRoomMsg_CosbynobleChange,kNSNotificationRoomMsg_refresh_redpackCount,kNSNotificationRoom_tsoonestarotMessage,SYSTEM_Friends_Playing,kNSNotificationSYSTEM_IM_RECOMMEND_FRIEND,kNSNotification_radioRoom_refreshRelationship,kNSNotification_shop_assets_refresh,kNSNotification_IM_show_sendGiftView,kNSNotification_openBlack_creatAPISuccess,kNSNotification_openBlack_joinAPISuccess,kNSNotification_openBlack_disbandAPISuccess,kNSNotification_openBlack_tsurplusedeamInfoRefresh,kNSNotification_openBlack_tsurplusedeamInfoRefresh_local,kNSNotification_openBlack_anatomistsexitTeam,kNSNotification_openBlack_inconveniencecreatTeam,KNSNotification_inRoom_engenderingopenKeyboard_key,kNSNotificationDidBecomeActive,kNSNotification_refresh_pack_other,kNSNotification_refresh_family_square,kNSNotification_refresh_family_square_list,Key_addOrRemove_groupChat_clan,key_refresh_messagelist_addClan,key_refresh_blandDate_heartbeatValue,key_blandDate_processStep,key_blandDate_succeed,Key_privite_chat_make_relation,Key_privite_chat_agree_relation,Key_privite_chat_defence_relation,key_privite_chat_delete_relation,key_privite_chat_redPacket_statue,key_inNineRadioRoom_startPK,key_inNineRadioRoom_refreshPK,key_inNineRadioRoom_endPK,key_inNineRadioRoom_FinshPK,key_inNineRadioRoom_ResultPK,key_inNineRadioRoom_removePK,key_InRadioRoom_getLuckGoods,key_inRadioRoom_command_public_msg,key_inChatHall_shareClane,key_inChatHall_ReceiveRedPac,key_inChatHall_refreshRedPackCount,Key_inMainVC_RefreshRedPackCount"
+            isEnabled = "NO">
+         </CommandLineArgument>
+         <CommandLineArgument
+            argument = "-chageAPIPrefix YB"
+            isEnabled = "NO">
+         </CommandLineArgument>
+         <CommandLineArgument
+            argument = "-deleteComments"
+            isEnabled = "NO">
+         </CommandLineArgument>
+         <CommandLineArgument
+            argument = "-ignoreDirNames ClassLibs,Main"
+            isEnabled = "NO">
+         </CommandLineArgument>
+         <CommandLineArgument
+            argument = "-modifyClassNamePrefix /Users/admin/Desktop/&#x6df7;&#x6dc6;/ChatDate/AverageDay.xcodeproj CD&gt;AD"
+            isEnabled = "NO">
+         </CommandLineArgument>
+         <CommandLineArgument
+            argument = "-modifyProjectName ChatDate&gt;AverageDay"
+            isEnabled = "NO">
+         </CommandLineArgument>
+         <CommandLineArgument
+            argument = "-spamCodeOut "
+            isEnabled = "NO">
+         </CommandLineArgument>
+         <CommandLineArgument
+            argument = "-handleXcassets"
+            isEnabled = "NO">
+         </CommandLineArgument>
+      </CommandLineArguments>
+   </LaunchAction>
+   <ProfileAction
+      buildConfiguration = "Release"
+      shouldUseLaunchSchemeArgsEnv = "YES"
+      savedToolIdentifier = ""
+      useCustomWorkingDirectory = "NO"
+      debugDocumentVersioning = "YES">
+      <BuildableProductRunnable
+         runnableDebuggingMode = "0">
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "B517AAA6202C500000E7D046"
+            BuildableName = "ProjectMix"
+            BlueprintName = "ProjectMix"
+            ReferencedContainer = "container:ProjectMix.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
+   </ProfileAction>
+   <AnalyzeAction
+      buildConfiguration = "Debug">
+   </AnalyzeAction>
+   <ArchiveAction
+      buildConfiguration = "Release"
+      revealArchiveInOrganizer = "YES">
+   </ArchiveAction>
+</Scheme>
